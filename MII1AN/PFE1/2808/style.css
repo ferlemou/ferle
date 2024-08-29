@@ -1,0 +1,13 @@
+/* selecionado por tag */
+p{
+    color: blue;
+}
+/* selecionando por ID */
+#paragrafo1{
+    color: red;
+}
+/* selecionando por class */
+.paragrafos{
+    color: green;
+    
+}
